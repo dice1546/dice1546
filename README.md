@@ -15,7 +15,8 @@ I am a dedicated Full-Stack Developer specializing in Next.js, with over four ye
 [Github Repo](https://github.com/dice1546/next-autth-system.git)<br/>
 [Live Project](https://nextauth.creativnerds.com/)
 ### 🌐 creativnerds.com
-[Github Repo](https://creativnerds.com/)
+[Github Repo](https://creativnerds.com/)<br/>
+[Live Project](https://creativnerds.com)
 ### 🗣 Urdulingo - Learn English
 [Live Project](https://urdulingo.creativnerds.com/)
 
