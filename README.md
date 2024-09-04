@@ -13,7 +13,7 @@ I am a dedicated Full-Stack Developer specializing in Next.js, with over four ye
 
 ## 🛠️ Recent Projects:
 ### Skill Leaning LMS
-(https://learn.creativnerds.com/)
+#### https://learn.creativnerds.com/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dice1546&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
