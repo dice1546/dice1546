@@ -15,8 +15,3 @@ I am a dedicated Full-Stack Developer specializing in the React ecosystem, inclu
 ## 💬 Connect with Me:
 [Email Me](mailto:daniyal.afaqi@gmail.com)<br/>
 [Connect on Contra](https://contra.com/daniafaqi)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=dice1546&icon=0&color=0)](https://visitcount.itsvg.in)
-
