@@ -1,16 +1,15 @@
 # 💫 About Me:
-I am a dedicated Full-Stack Developer specializing in Next.js, with 5+ years of experience building dynamic, secure, and high-performance web applications. My work spans multiple successful projects utilizing Next.js and React.js, where I’ve consistently delivered modern solutions that meet user needs.<br><br>In addition to web development, I have also built several mobile app projects, and I am actively working to expand my skill set and experience in mobile development. Currently, I am exploring machine learning and AI SDKs, with a focus on integrating these technologies into both web and mobile applications. My passion for innovation and continuous learning drives me to stay at the forefront of technology.
+I am a dedicated Full-Stack Developer specializing in the React ecosystem, including Next.js, Electron, and React Native, as well as backend development, with over 5 years of experience building dynamic, secure, and high-performance web and mobile applications. My work spans multiple successful projects where I’ve consistently delivered modern solutions that meet user needs.<br><br>In addition to web and mobile development, I am actively expanding my skill set by exploring machine learning and AI SDKs, with a focus on integrating these technologies into both web and mobile applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalafaqi/) 
-[![Website]](https://daniafaqi.contra.com/) 
+[Website](https://daniafaqi.contra.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dice1546)
 
 ## Services:
-<iframe frameborder="0" height="172px" src="https://contra.com/s/ZBEEsRA3-responsive-full-stack-development-with-nextjs/embed?structure=horizontal" title="View this service on Contra" width="100%" />
-<br>
-<iframe frameborder="0" height="172px" src="https://contra.com/s/NFsAqevU-custom-web-application-development/embed?structure=horizontal" title="View this service on Contra" width="100%" />
-<br>
-<iframe frameborder="0" height="172px" src="https://contra.com/s/rFmEsB66-api-development-and-integration/embed?structure=horizontal" title="View this service on Contra" width="100%" />
+- [Responsive Full-Stack Development](https://contra.com/s/ZBEEsRA3-responsive-full-stack-development)
+- [Custom Web Application Development](https://contra.com/s/NFsAqevU-custom-web-application-development)
+- [API Development and Integration](https://contra.com/s/rFmEsB66-api-development-and-integration)
   
 
 ## 💬 Connect with Me:
