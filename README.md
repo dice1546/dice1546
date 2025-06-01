@@ -3,8 +3,9 @@ I am a dedicated Full-Stack Developer specializing in the React ecosystem, inclu
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyalafaqi/) 
-[Website](https://daniafaqi.contra.com/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dice1546)
+<br>
+[Website](https://daniafaqi.contra.com/) 
 
 ## Services:
 - [Responsive Full-Stack Development](https://contra.com/s/ZBEEsRA3-responsive-full-stack-development)
